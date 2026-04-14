@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Senguk520&fontSize=48&fontAlignY=38&desc=JavaScript%20%7C%20Python%20%7C%20Node.js%20%7C%20Auto.js&descAlignY=58&animation=fadeIn" alt="Senguk520 Banner" />
 </div>
 
@@ -32,14 +32,11 @@
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,react,vue&perline=7" alt="Frontend and Core Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,react,vue&perline=7" alt="Frontend and Core Skills" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,mongodb&perline=6" alt="Backend and Tooling Skills" />  </a> 
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,mongodb&perline=6" alt="Backend and Tooling Skills" /> 
   <img src="./autoJs.png" alt="Auto.js" height="48" />
 </p>
 
