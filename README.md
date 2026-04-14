@@ -1,11 +1,9 @@
 <div align="center">
-  <a href="https://github.com/Senguk520">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF5&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Senguk520;Welcome+to+my+GitHub+Profile!;A+Passionate+Developer" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Senguk520&fontSize=48&fontAlignY=38&desc=JavaScript%20%7C%20Python%20%7C%20Node.js%20%7C%20Auto.js&descAlignY=58&animation=fadeIn" alt="Senguk520 Banner" />
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Senguk520/count.svg" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Senguk520&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -39,19 +37,30 @@
   </a>
 </p>
 
-*Note: You can easily add more skills [here](https://skillicons.dev/). Auto.js isn't natively supported by skillicons, but you can highlight it in your projects!*
+<p align="center">
+  <img src="./autoJs.png" alt="Auto.js" width="72" />
+  <br />
+  <sub><strong>Auto.js</strong></sub>
+</p>
+
+*Note: Most skills above are rendered by `skillicons.dev`, and `Auto.js` is displayed with your local custom icon.*
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Senguk520&show_icons=true&theme=radical&hide_border=true" alt="Senguk520's GitHub stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Senguk520&theme=radical&hide_border=true" alt="Senguk520's Streak" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Senguk520&theme=radical" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senguk520&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Senguk520&theme=radical&hide_border=true" alt="Senguk520's Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Senguk520&theme=radical" alt="Repos Per Language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Senguk520&theme=radical" alt="Most Commit Language" height="180" />
 </p>
 
 ---
@@ -65,4 +74,5 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Senguk520/Senguk520/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 
