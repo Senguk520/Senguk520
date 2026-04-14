@@ -31,18 +31,10 @@
 
 ## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,react,vue&perline=7" alt="Frontend and Core Skills" />
-  </a>
-</p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,react,vue&perline=7" alt="Frontend and Core Skills" /></a></p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,mongodb&perline=6" alt="Backend and Tooling Skills" />
-  </a>
-  <img src="./autoJs.png" alt="Auto.js" height="48" />
-</p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,mongodb&perline=6" alt="Backend and Tooling Skills" /></a><img src="./autoJs.png" alt="Auto.js" height="48" /></p>
+
 
 
 
