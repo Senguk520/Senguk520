@@ -33,17 +33,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,react,vue,git,github,docker,linux,mysql,mongodb&perline=7" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,react,vue&perline=7" alt="Frontend and Core Skills" />
   </a>
 </p>
 
 <p align="center">
-  <img src="./autoJs.png" alt="Auto.js" width="72" />
-  <br />
-  <sub><strong>Auto.js</strong></sub>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,mongodb&perline=6" alt="Backend and Tooling Skills" />
+  </a>
+  <img src="./autoJs.png" alt="Auto.js" height="48" />
 </p>
 
-*Note: Most skills above are rendered by `skillicons.dev`, and `Auto.js` is displayed with your local custom icon.*
 
 
 ---
